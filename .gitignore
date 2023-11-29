@@ -1,0 +1,31 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+
+# Environment
+.env
+
+# Editor
+.vscode/
+
+# Dependency directories
+__pycache__/
+env/
+env.bak/
+*.pyc
+
+# Logs and databases
+*.log
+*.db
+*.sqlite
+
+# IDE-specific
+.idea/
+
+.Dockerfile
+
+# Compiled Python files
+*.pyc
+# Ignore the virtual environment
+venv/
